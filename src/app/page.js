@@ -1,5 +1,3 @@
-import Image from "next/image";
-
 export default function Home() {
   return (
     <div>
@@ -7,4 +5,4 @@ export default function Home() {
       <p>Welcome to NFT Portfolio Analyzer</p>
     </div>
   );
-}
+} 
